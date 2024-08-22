@@ -6,6 +6,10 @@
 ## Code
 ```.py
 a,b = int(input())
+if (a=20) or (b=20) or (a+b=20)
+print (True)
+else
+print (False)
 ```
 ## Proof of work
 
